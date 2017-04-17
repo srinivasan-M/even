@@ -5,6 +5,7 @@ public static void main(String args[])
 {
 int sl,el,i;
 Scanner a=new Scanner(System.in);
+ //enter the starting and ending limit 
 sl=a.nextInt();
 el=a.nextInt();
 for(i=sl;i<=el;i++)
